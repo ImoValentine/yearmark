@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620327130 source:c:\users\admin\desktop\unisa\c++ codes\yearmark\main.cpp
+	<string.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+
